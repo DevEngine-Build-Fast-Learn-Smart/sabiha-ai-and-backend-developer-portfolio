@@ -6,8 +6,8 @@ export function Education() {
     {
       degree: 'B.Sc. in Computer Science & Engineering',
       institution: 'Bangladesh University of Business & Technology (BUBT)',
-      period: '2021 - 2025',
-      cgpa: '3.85/4.00',
+      period: '2022 - 2026',
+      cgpa: '3.83/4.00',
       icon: GraduationCap,
       gradient: 'from-violet-500 to-purple-500'
     },
@@ -15,7 +15,7 @@ export function Education() {
       degree: 'Diploma in Engineering',
       institution: 'Dhaka Mohila Polytechnic Institute',
       period: '2017 - 2021',
-      cgpa: '3.92/4.00',
+      cgpa: '3.72/4.00',
       icon: Award,
       gradient: 'from-cyan-500 to-blue-500'
     }
