@@ -1,6 +1,6 @@
-# Shabiha Jahan | AI & Backend Developer Portfolio
+# Sabiha Jahan | AI & Backend Developer Portfolio
 
-Welcome to the personal portfolio of Shabiha Jahan, an AI & Backend Developer passionate about building scalable, intelligent systems and robust APIs. This modern, visually stunning portfolio is built with React, Vite, Tailwind CSS, and Framer Motion.
+Welcome to the personal portfolio of Sabiha Jahan, an AI & Backend Developer passionate about building scalable, intelligent systems and robust APIs. This modern, visually stunning portfolio is built with React, Vite, Tailwind CSS, and Framer Motion.
 
 ## 🚀 Features
 - **Dynamic & Responsive Design:** Crafted with modern aesthetics, glassmorphism, and responsive layouts to ensure it looks great on any device.
@@ -20,8 +20,8 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sabihamishu/shabiha-portfolio.git
-   cd shabiha-portfolio
+   git clone https://github.com/sabihamishu/sabiha-portfolio.git
+   cd sabiha-portfolio
    ```
 
 2. **Install dependencies:**
